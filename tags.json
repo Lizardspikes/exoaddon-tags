@@ -1,6 +1,5 @@
 {
-  "usr_2ba54c8f-1e10-439f-adc4-7af85f07e928": 
-  [
+  "usr_2ba54c8f-1e10-439f-adc4-7af85f07e928": [
     {
       "Tag": "<b><size=150%>EXO ADDONS DEV</size></b>",
       "Color": "#bf77f6"
@@ -9,8 +8,14 @@
       "Tag": "<b><size=130%>#BOYKISSER >_<</size></b>",
       "Color": "#ffbcd9"
     }
-  ]
+  ], 
 
+  "usr_b7dc6ff3-5bf2-4115-9357-8d73b8c92ef2": [
+    {
+      "Tag": "<b><size=150%>ADDONS DEV'S POOKIE</size></b>",
+      "Color": "#071f25"
+    }
+  ]
 
 
 }
