@@ -15,7 +15,20 @@
       "Tag": "<b><size=150%>ADDONS DEV'S POOKIE</size></b>",
       "Color": "#071f25"
     }
-  ]
+  ],
 
+  "usr_f968e4a1-54d2-4334-be8b-c3df8ae318a4": [ 
+    {
+      "Tag": "<color=#FF9EFF>S</color><color=#EF9EFF>i</color><color=#DF9FFF>l</color><color=#CFA0FF>l</color><color=#BFA0FF>y</color> <color=#9FA2FF>B</color><color=#8FA2FF>u</color><color=#7FA3FF>n</color><color=#6FA4FF>n</color><color=#5FA4FF>y</color> <color=#3FA6FF>G</color><color=#2FA6FF>i</color><color=#1FA7FF>r</color><color=#0FA8FF>l</color>",
+      "Color": "#FFFFFF"
+    } 
+  ],
 
+    "usr_70b61288-ac10-4dca-82a0-5553ae7bb954": [
+    {
+      "Tag": "<b><color=#feec70>sob</color></b>",
+      "Color": "#FFFFFF"
+    } 
+  ],
+  
 }
